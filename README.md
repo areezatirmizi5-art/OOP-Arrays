@@ -1,5 +1,18 @@
-# Arrays
+
 # OOP Array Assignment (C#)
+
+# Arrays
+An array is a collection of elements of the same type stored in contiguous memory locations. It allows you to store multiple values under a single variable name and access them using an index.
+
+**Arrays are useful when you need to:**
+---
+Store multiple related values together (e.g., marks of students).
+Access elements efficiently using indices.
+Perform operations like finding the largest/smallest value, sum, or average.
+Reduce the need for creating many separate variables.
+
+*In short:* Arrays make your code organized, efficient, and easier to manage when working with collections of data.
+---
 
 ## Code 1: Finding the Largest Number in a 1D Array
 <img width="1323" height="883" alt="OOP_example1" src="https://github.com/user-attachments/assets/7b8443c7-a90d-4949-bb9b-30252eaaec1c" />
