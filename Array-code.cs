@@ -30,7 +30,6 @@ class Program
         double average = sum / (double)marks.Length;
 
         Console.WriteLine("\nResults:");
-        Console.WriteLine("Total Marks: " + sum);
         Console.WriteLine("Average Marks: " + average);
         Console.WriteLine("Highest Marks: " + highest);
         Console.WriteLine("Lowest Marks: " + lowest);
