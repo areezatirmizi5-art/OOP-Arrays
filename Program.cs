@@ -11,6 +11,7 @@ namespace OOP
         static void Main(string[] args)
         {
             {
+                //CODE EXAMPLE 1
                 // Program to find the largest of 5 numbers
                 int[] numbers = new int[5];
 
@@ -37,6 +38,7 @@ namespace OOP
             }
 
             {
+                //CODE EXAMPLE 2
                 // Program to count even and odd numbers in an array
                 int[] numbers = new int[10];
                 int evenCount = 0;
@@ -68,6 +70,7 @@ namespace OOP
 
 
                 {
+                    //CODE EXAMPLE3
                     // Program to find the largest element in a matrix
                     int[,] matrix = new int[3, 3];
 
